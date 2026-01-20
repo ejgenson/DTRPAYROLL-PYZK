@@ -30,5 +30,7 @@ python manage.py makemigrations employeeDTR
 #migrate
 python manage.py migrate
 
+python manage.py createsuperuser
+
 #runserver
 python manage.py runserver
